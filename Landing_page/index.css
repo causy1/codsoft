@@ -1,0 +1,61 @@
+
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.body{
+    background-color: black;
+}
+#animehub{
+    border-radius: 40px;
+    height: 40px;
+    width: 100px;
+}
+
+.navbar{
+    background-color: rgb(96, 93, 93);
+}
+
+.DN{
+    position: relative;
+    left: 350px;
+}
+
+.title-AH h1{
+    font-size: 100px;
+    display: inline;
+    font-family: cursive;
+    
+}
+.AH-large{
+    color: rgb(194, 103, 6);
+
+}
+.AH-large2{
+    color: rgb(255, 255, 255);
+}
+
+.display-anime{
+    flex-direction: row;
+}
+
+.display-anime1{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin: 5px;
+}
+.card-body p{
+    font-size: 12px;
+}
+
+.display-anime2{
+    display: flex;
+    justify-content: center;
+}
