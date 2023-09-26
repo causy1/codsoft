@@ -24,6 +24,11 @@ html,body{
     position: relative;
     left: 350px;
 }
+.title-AH{
+    
+    width: 1200px;
+    margin: 0 auto;
+}
 
 .title-AH h1{
     font-size: 100px;
@@ -49,7 +54,7 @@ html,body{
 }
 
 .card{
-    margin: 5px;
+    margin: 15px;
 }
 .card-body p{
     font-size: 12px;
@@ -58,4 +63,70 @@ html,body{
 .display-anime2{
     display: flex;
     justify-content: center;
+}
+
+.display-anime3{
+    display: flex;
+    justify-content: center;
+}
+
+
+.pagination a{
+    background-color: rgb(107, 105, 105);
+    color: white;
+
+}
+
+.blank-space{
+    height: 150px;
+    
+}
+
+.footer-container{
+    padding: 10px;
+    overflow: hidden;
+    
+}
+.title-AH-footer{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.title-AH-footer h1{
+    font-size: 60px;
+    display: inline;
+    position: relative;
+    left: 50px;
+    font-family: cursive;
+    
+}
+
+
+.social-footer ul{
+    display: flex;
+    
+}
+
+.social-footer ul li{
+    list-style: none;
+    padding-right: 10px;
+    
+}
+
+.social-icon{
+    height: 25px;
+    width: 25px;
+    padding: 2px;
+}
+
+.copyright{
+    position: relative;
+    left: 550px;
+}
+
+
+
+.this-page{
+    position: relative;
+    left: 320px;
 }
